@@ -1,6 +1,6 @@
 # NorthwindManagement
  Hazır Northwind SQL veritabanını kullanarak hazırladığım windows form uygulmasının  detaylarını görselleriyle birlikte aşağıda inceleyebilirsiniz;
-
+NOT: Projede yer alan Db.cs'da yer alan veritabanı bilgilerini kendi bilgilerinizle güncellemeyi unutmayın!
 
 # Ana Menü Ekranı
 ![alt text](Kategoriyegöre.png)
